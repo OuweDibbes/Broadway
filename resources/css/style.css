@@ -29,6 +29,12 @@ h4 {
   background-size: cover;
 }
 
+.subheader {
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
+  color: white;
+}
+
 .items {
   font-size: 18px;
   font-weight: normal;

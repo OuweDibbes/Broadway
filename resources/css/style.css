@@ -42,13 +42,9 @@ h4 {
 }
 
 .footer {
-  font-size: 18px;
+  font-size: 11px;
   background-color: dimgray;
   font-weight: normal;
   color: white;
   text-align: left;
-}
-
-#copyright {
-  font-size: 11px;
 }

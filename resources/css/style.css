@@ -29,14 +29,26 @@ h4 {
   background-size: cover;
 }
 
+.items {
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+}
+
 .subheader {
   background-image: url("../images/the-flatiron-building.png");
   background-size: cover;
   color: white;
 }
 
-.items {
+.footer {
   font-size: 18px;
+  background-color: dimgray;
   font-weight: normal;
   color: white;
+  text-align: left;
+}
+
+#copyright {
+  font-size: 11px;
 }
